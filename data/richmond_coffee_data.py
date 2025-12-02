@@ -1,0 +1,1 @@
+# Setting up the workspace for the Richomd Coffee Shop Project 
